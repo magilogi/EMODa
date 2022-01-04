@@ -9,3 +9,6 @@ Furthermore the 2 data processing apps are available to download.*
 
 This is currently being worked on, to make the data applications available online and with all types of csv encodings and column names. In the meantime remember the script will have to be altered locally to adapt to other dataframes. Remember to install requirements like streamlit and the transformers library
 
+
+This repo will be updated with TSV file examples, so anyone can try out the Google Embeddings Projector on Danish text with emotion labels. 
+
